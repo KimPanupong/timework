@@ -44,7 +44,7 @@ class DrawerView extends StatelessWidget {
                   ),
                   const Gap(10),
                   const CustomText(
-                    text: 'Kim Kim',
+                    text: 'Kim Panu',
                     color: Colors.white,
                     fontSize: 16,
                     fontWeight: FontWeight.bold,
